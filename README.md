@@ -4,7 +4,7 @@ Afrikaanse interaktiewe studie-webwerf vir NOUTT/Outomateorie. Die statiese GitH
 
 ## Oefenvraestelle
 
-Die oefentoets-afdeling is vervang met die sewe vraestelle uit die aangehegte bronmateriaal. Elke vraag het ’n antwoordveld, ’n memo-antwoord, ’n nasienknoppie en ’n hersieningsmerk. Die vraestelle dek eindige outomate en regulêre tale, regex, grammatikas, CNF, NFA/DFA-omskakelings en Pomplemma-bewyse.
+Die oefentoets-afdeling is vervang met die sewe vraestelle uit die aangehegte bronmateriaal. Elke vraag het ’n antwoordveld, ’n memo-antwoord, ’n nasienknoppie en ’n hersieningsmerk. Die vraestelle dek eindige outomate en regulêre tale, regex, grammatikas, CNF, NFA/DFA-omskakelings en Pomplemma-bewyse. Die vyf sketse uit die DOCX word outomaties by die toepaslike DFA- en NFA-vrae ingevoeg en verskyn weer saam met die memo-antwoord wanneer die antwoord oopgemaak word.
 
 | Vraestel | Fokus | Totaal |
 |---|---|---:|
